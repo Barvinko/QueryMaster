@@ -15,8 +15,8 @@ const Footer = () => {
         className={styles.footer__link}
         target="_blank"
       >
-        QueryMasters
-        <h2 className="text-zinc-400 flex justify-center items-center gap-[0.2rem]">
+        Query Master
+        <h2 className="text-zinc-300 flex justify-center items-center gap-[0.2rem]">
           2025 <FaRegCopyright />
         </h2>
       </Link>
