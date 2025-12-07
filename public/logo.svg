@@ -3,5 +3,5 @@
   <rect x="0" y="0" width="300" height="140" rx="15" fill="#4a6fa5" />
   
   <!-- Text Element -->
-  <text x="150" y="80" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#f2f2f2">QUERY MASTERS</text>
+  <text x="150" y="80" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#f2f2f2">QUERY MASTER</text>
 </svg>
