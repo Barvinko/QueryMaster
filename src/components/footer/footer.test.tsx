@@ -39,8 +39,8 @@ describe('Footer', () => {
 
   it('renders project title and link to repo', () => {
     render(<Footer />);
-    expect(screen.getByText(/QueryMasters/i)).toBeInTheDocument();
-    expect(screen.getByRole('link', { name: /QueryMasters/i })).toHaveAttribute(
+    expect(screen.getByText(/Query Master/i)).toBeInTheDocument();
+    expect(screen.getByRole('link', { name: /Query Master/i })).toHaveAttribute(
       'href',
       expect.stringContaining('github.com')
     );
