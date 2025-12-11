@@ -2,6 +2,12 @@
 
 A lightweight client for working with REST APIs, created as an alternative to Postman. The project was developed by a team of 3 people using Firebase for authentication.
 
+### Deploy to Vercel
+
+<a href="https://query-master-rest-client.vercel.app/" target="_blank">
+  <img src="https://vercel.com/button" alt="Deploy with Vercel" />
+</a>
+
 ## 📋 Project Description
 
 Query Master is a full-featured web application that allows users to:
